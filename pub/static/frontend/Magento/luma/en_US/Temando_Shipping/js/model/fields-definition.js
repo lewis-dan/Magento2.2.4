@@ -1,0 +1,1 @@
+/var/www/html/magento2/vendor/temando/module-shipping-m2/view/frontend/web/js/model/fields-definition.js

@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1528441184;s:6:"expire";i:1528448384;s:4:"tags";s:51:"ea6_WEBSITE,ea6_CONFIG,ea6_COLLECTION_DATA,ea6_MAGE";}
+[{"website_id":"1","code":"base","name":"Main Website","sort_order":"0","default_group_id":"1","is_default":"1","group_id":"1","group_title":"Main Website Store","store_id":"1","store_title":"Default Store View"},{"website_id":"2","code":"store1","name":"NewStore1","sort_order":"0","default_group_id":"2","is_default":"0","group_id":"2","group_title":"NewStore1","store_id":"2","store_title":"NewStore1"}]
